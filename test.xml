@@ -1,0 +1,11 @@
+<Rejestr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.hazard.mf.gov.pl/2017/03/21/">
+  <PozycjaRejestru Lp="1">
+    <AdresDomeny>domena2.pl</AdresDomeny>
+    <DataWpisu>2017-02-10</DataWpisu>
+  </PozycjaRejestru>
+  <PozycjaRejestru Lp="2">
+    <AdresDomeny>domena3.pl</AdresDomeny>
+    <DataWpisu>2017-02-10</DataWpisu>
+    <DataWykreslenia>2017-02-13</DataWykreslenia>
+  </PozycjaRejestru>
+</Rejestr>
